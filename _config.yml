@@ -1,6 +1,6 @@
 title: Links Repo
 description: Kumpulan link penting milik Arif Budiman
-baseurl: "/links-repo" # nama repo kamu
+baseurl: "/myhtmlywebsite" # nama repo kamu
 url: "https://arifbdarsono.github.io"
 theme: minima
 
