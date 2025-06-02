@@ -1,8 +1,8 @@
-title: Links Repo
-description: Kumpulan link penting milik Arif Budiman
+title: myhtmlywebsite
+description: Links Curation
 baseurl: "/myhtmlywebsite" # nama repo kamu
 url: "https://arifbdarsono.github.io"
 theme: minima
 
 # Opsional
-author: Arif Budiman
+author: Arif Budiman,S.T.
