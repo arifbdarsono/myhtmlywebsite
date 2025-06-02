@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Kumpulan Link Penting
+title: Testing Theme Minima
 ---
 
 Selamat datang! Berikut adalah daftar link penting milik saya:
